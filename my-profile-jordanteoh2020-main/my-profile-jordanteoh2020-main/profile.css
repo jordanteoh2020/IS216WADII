@@ -1,0 +1,20 @@
+.header {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+#video-head{
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: cornflowerblue;
+    text-align: center;
+
+}
+
+#bio{
+    border: darkblue solid 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkkhaki;
+    text-align: center;
+}
